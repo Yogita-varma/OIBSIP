@@ -1,7 +1,7 @@
 #weather application
 import requests
 
-API_KEY = "d7f8bde29e65469e7376c69a954448c0"
+#API_KEY = "d7f8bde29e65469e7376c69a954448c0"
 WEATHER_ENDPOINT = "https://api.openweathermap.org/data/2.5/weather"
 
 
@@ -54,3 +54,4 @@ def run_weather_app():
 
 
 run_weather_app()
+
